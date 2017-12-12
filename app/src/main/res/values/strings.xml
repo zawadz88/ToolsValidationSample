@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToolsValidationSample</string>
+
+    <string name="host">www.myotherdomain.com</string>
+    <string name="path_pattern">/path/.*/suffixToIntercept</string>
+    <string name="path_prefix">/path/to/intercept/</string>
+</resources>
